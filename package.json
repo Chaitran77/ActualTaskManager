@@ -1,0 +1,26 @@
+{
+  "name": "actualtaskmanager",
+  "version": "1.0.0",
+  "description": "A proper task manager",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaitran77/ActualTaskManager.git"
+  },
+  "author": "Kiran Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaitran77/ActualTaskManager/issues"
+  },
+  "homepage": "https://github.com/Chaitran77/ActualTaskManager#readme",
+  "devDependencies": {
+    "electron": "^21.2.3"
+  }
+}
